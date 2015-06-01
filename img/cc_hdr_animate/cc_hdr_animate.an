@@ -1,0 +1,67 @@
+
+{
+
+	"HTMLFileName":"cc_hdr_animate.html",
+	"pref__general__AutoKeyframeProperties":"true",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"Preloader\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Down-level\": {\
+   \"timelines\": {\
+\
+   }}\
+}",
+	"expanded:images/cc-logo-lrg.png":"nil",
+	"pref__general__FilterNonAnimatedElements":"false",
+	"pref__general__GenerateSmoothTransitions":"true",
+	"viewStartMs":"4930.681215018",
+	"pref__general__AutoKeyframePropertiesArmed":"true",
+	"stage-Default Timeline_mark_ms":"0",
+	"symbol_stage":{
+		"dummyStageParentWidth":"960px",
+		"element_${roller-coaster-car}":{
+			"timelineColor2":"0x168c84",
+			"timelineColor3":"0x2a605c",
+			"timelineColor":"0x00a096",
+			"animationEnabled":"true",
+			"usingMotionPaths":"true"},
+		"dummyStageParentHeight":"100px",
+		"element_${cc-logo-lrg}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"timelineColor":"0x50bd82"},
+		"defaultStageParentHeight":"100px",
+		"element_${Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"animationEnabled":"true",
+			"timelineColor":"0xeedf79"},
+		"defaultStageParentWidth":"960px",
+		"element_${draft_logo_lrg}":{
+			"timelineColor2":"0x1aa38f",
+			"timelineColor3":"0x2a6a61",
+			"timelineColor":"0x00bda4"},
+		"element_${cc_coaster_car}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"animationEnabled":"false",
+			"timelineColor":"0x91c767"}},
+	"TransitionIdCounter":"35",
+	"expanded:images/draft_logo_lrg.png":"nil",
+	"viewStartY":"0",
+	"pixelsPerMs":"0.2",
+	"pref__general__TimelineShowGrid":"true",
+	"expanded:images/roller-coaster-car.png":"nil",
+	"usedBOM":"false",
+	"nextElementColorIndex":"6",
+	"stage-Default Timeline_playhead_ms":"8500",
+	"CompZoomFactor":"100",
+	"expanded:images/cc_coaster_car.svg":"nil",
+	"StageZoomFactor":"400"}

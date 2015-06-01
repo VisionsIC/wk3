@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'webhostinghub-glyphsregular';
+	src: url('webhostinghub-glyphs-webfont.eot');
+	src: url('webhostinghub-glyphs-webfont.eot?#iefix') format('embedded-opentype'),
+		url('webhostinghub-glyphs-webfont.woff') format('woff'),
+		url('webhostinghub-glyphs-webfont.ttf') format('truetype'),
+		url('webhostinghub-glyphs-webfont.svg') format('svg');
+}
